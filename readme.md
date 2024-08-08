@@ -1,3 +1,5 @@
 #Garima's portfolio
 
-#Project Name- Google(www.google.com)
+#Project 1 - Power BI project- Adventure Works interactive dashboard
+
+
